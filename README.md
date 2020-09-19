@@ -8,7 +8,7 @@ Please use **one** of the two installation options, either native **or** docker 
 * If using a Virtual Machine to install Ubuntu, use the following configuration as minimum:
   * 2 CPU
   * 2 GB system memory
-  * 25 GB of free hard drive space
+  * 25 GB of free hard drive space 
 
   The Udacity provided virtual machine has ROS and Dataspeed DBW already installed, so you can skip the next two steps if you are using this.
 
