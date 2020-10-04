@@ -34,15 +34,15 @@ We were able to successfully launch using launch files
 ## Smoothly follow waypoints in the simulator.
 ## Stop at traffic lights when needed.
 
-The car has smoothly followed all the waypoints in the simulator and adhered to traffic lights when neede.
+The car has smoothly followed all the waypoints in the simulator and adhered to traffic lights when needed.
 
 The video which demostrates the rubric points can be seen in the below link
 
 [![Urban driving with traffic lights](https://img.youtube.com/vi/Ixvh9E4Li18/0.jpg)](https://youtu.be/Ixvh9E4Li18)
 
-*NOTE:* Some of the team members had problems running the simulator in the Workspace -- the car failed to follow the waypoints. The above video capture of a successful simulation run was made by running the code and simulation on one of the team members' local machine.
+**NOTE:** Some of the team members had problems running the simulator in the Workspace -- the car failed to follow the waypoints. The above video capture of a successful simulation run was made by running the code and simulation on one of the team members' local machine.
 
-## Publish throttle, steering, and brake commands at 50hz.
+## Publish throttle, steering, and brake commands at 50 Hz.
 
-Published throttle,steering and brake commands at 50hz.
+Published throttle,steering and brake commands at 50 Hz.
 
